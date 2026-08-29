@@ -53,3 +53,7 @@ pytest -q
 | `examples/` | ملف CSV تجريبي |
 
 لا يستخدم المشروع قاعدة بيانات. تبقى البيانات والنتائج في ذاكرة جلسة Streamlit، ويمكن إعادة تحميلها من CSV في أي وقت.
+
+![alt text](image.png)
+
+![alt text](image-1.png)
